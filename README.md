@@ -66,6 +66,6 @@ Conclusion
 
 By following these steps, you've built a Spring Boot project with MySQL integration and tested it using Postman. Remember, successful application development is an iterative process. Continuous testing and refinement are key to a reliable and efficient application.
 
----
 
-This general README provides a concise, interactive, and easy-to-understand overview of your Spring Boot project, guiding users through the process without delving into specific code details.
+
+
